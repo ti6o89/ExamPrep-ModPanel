@@ -1,0 +1,15 @@
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.deps.json
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.runtimeconfig.json
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.runtimeconfig.dev.json
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.dll
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.AssemblyInfoInputs.cache
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.AssemblyInfo.cs
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\WebServer.dll
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.pdb
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.dll
+E:\SoftUni\C# Web Development Basics\ExamPrep\11. Exam-Preparation\Skeleton\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.pdb
