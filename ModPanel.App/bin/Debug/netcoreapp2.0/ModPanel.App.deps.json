@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "d7141b9453f2af21b3130adb39f784507aec69c7"
+    "signature": "c5b46de410b03e167e968273ab8cca805d8402f7"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,6 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
-          "SimpleInjector": "4.0.12",
           "SimpleMvc.Framework": "1.0.0"
         },
         "runtime": {
@@ -202,14 +201,6 @@
           }
         }
       },
-      "SimpleInjector/4.0.12": {
-        "dependencies": {
-          "System.ComponentModel": "4.0.1"
-        },
-        "runtime": {
-          "lib/netstandard1.3/SimpleInjector.dll": {}
-        }
-      },
       "System.Collections/4.0.11": {
         "dependencies": {
           "Microsoft.NETCore.Targets": "1.0.1",
@@ -217,11 +208,6 @@
         }
       },
       "System.Collections.Immutable/1.4.0": {},
-      "System.ComponentModel/4.0.1": {
-        "dependencies": {
-          "System.Runtime": "4.1.0"
-        }
-      },
       "System.ComponentModel.Annotations/4.4.0": {},
       "System.Data.SqlClient/4.4.0": {
         "dependencies": {
@@ -627,13 +613,6 @@
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
     },
-    "SimpleInjector/4.0.12": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-10Qj1UiitErW7ktN13sYxg9vrbHClJ7ThXj6n/27bKAO4V+bIcRRSJDGbMYz54x290Q/ELFJOu9Q/3KicqivTg==",
-      "path": "simpleinjector/4.0.12",
-      "hashPath": "simpleinjector.4.0.12.nupkg.sha512"
-    },
     "System.Collections/4.0.11": {
       "type": "package",
       "serviceable": true,
@@ -647,13 +626,6 @@
       "sha512": "sha512-71hw5RUJRu5+q/geUY69gpXD8Upd12cH+F3MwpXV2zle7Bqqkrmc1JblOTuvUcgmdnUtQvBlV5e1d6RH+H2lvA==",
       "path": "system.collections.immutable/1.4.0",
       "hashPath": "system.collections.immutable.1.4.0.nupkg.sha512"
-    },
-    "System.ComponentModel/4.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
-      "path": "system.componentmodel/4.0.1",
-      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
     },
     "System.ComponentModel.Annotations/4.4.0": {
       "type": "package",

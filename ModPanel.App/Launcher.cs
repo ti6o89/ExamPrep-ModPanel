@@ -1,13 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ModPanel.App.Data;
-using ModPanel.App.Infrastructure;
 using SimpleMvc.Framework;
 using SimpleMvc.Framework.Routers;
 
 namespace ModPanel.App
 {
-    using WebServer;
-
     public class Launcher
     {
         static Launcher()
@@ -18,10 +15,10 @@ namespace ModPanel.App
             }
         }
 
-        public static void Main()
-        => MvcEngine.Run(new WebServer(
-                1337,
-                DependencyControllerRouter.Get(),
+        public static void Main(string[] args)
+        => MvcEngine.Run(
+            new WebServer.WebServer(1337,
+                new ControllerRouter(),
                 new ResourceRouter()));
     }
 }

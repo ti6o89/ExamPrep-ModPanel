@@ -19,7 +19,6 @@ namespace ModPanel.App.Data
                 .Entity<User>()
                 .HasIndex(u => u.Email)
                 .IsUnique();
-
         }
     }
 }

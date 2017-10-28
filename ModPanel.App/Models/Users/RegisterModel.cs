@@ -1,4 +1,5 @@
-﻿using ModPanel.App.Infrastructure.Validation.Users;
+﻿using ModPanel.App.Data.Models;
+using ModPanel.App.Infrastructure.Users;
 using System.ComponentModel.DataAnnotations;
 
 namespace ModPanel.App.Models.Users

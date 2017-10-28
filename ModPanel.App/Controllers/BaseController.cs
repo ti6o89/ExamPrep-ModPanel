@@ -50,4 +50,3 @@ namespace ModPanel.App.Controllers
         protected bool IsAdmin => this.User.IsAuthenticated && this.Profile.IsAdmin;
     }
 }
-

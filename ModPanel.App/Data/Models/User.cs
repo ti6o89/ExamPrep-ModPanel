@@ -17,8 +17,8 @@ namespace ModPanel.App.Data.Models
 
         public PositionType Position { get; set; }
 
-        public bool IsAdmin { get; set; }
-
         public bool IsApproved { get; set; }
+
+        public bool IsAdmin { get; set; }
     }
 }
